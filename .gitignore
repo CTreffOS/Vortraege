@@ -1,0 +1,24 @@
+# OS generated files
+#MAC
+.DS_Store
+.DS_Store?
+.TRASHES
+*.~si
+
+#WIN
+Thumbs.db
+
+#Compiled sources
+*.class
+*.com
+*.dll
+*.exe
+*.o
+*.so
+
+#Latex
+**/RES/*.aux
+**/RES/*.log
+**/RES/*.synctex.gz
+**/RES/*.toc
+**/RES/*.pdf
