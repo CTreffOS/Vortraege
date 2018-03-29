@@ -1,0 +1,90 @@
+Vortrag: "Netsurvival - ein Überlebensguide" - Stand: 2018-03-29
+================================================================
+
+
+Organisatorisches
+-----------------
+
+- Termin: 25.04.2018, 13:30-17:30 Uhr
+- Länge des Vortrags: 1 Stunde inkl. Diskussion, in zwei Slots
+- Ort: BBS Brinkstraße, Raum noch unbekannt
+- Organisator: Caritasverband für die Diözese Osnabrück e. V. und  der
+  BDKJ (Bund der kath. Jugend) Osnabrück
+- Thema des Organisators: "Aktionstag Leben 4.0"
+- Kontakt bei Caritas: Maria Keiser-Scheer, Fachbereich
+  Arbeitsmarktpolitik
+- Auditorium: ca. 50 (geschätzt), Alter: 15-20 Jahre
+- Titel unserer Slots: Netsurvial - ein Überlebensguide
+- Charakter unseres Beitrags: Workshop bzw. Dialog-Vortrag
+
+
+Gliederung entsprechend Folienaufteilung
+----------------------------------------
+
+1. Folie - Willkommen 
+Willkommen beim Vortrag "Netsurvival - ein Überlebensguide" des
+Chaostreff Osnabrück e.V, Osnabrück am 25.04.2018
+
+2. Folie - Chaostreff Osnabrück e.V:
+Vorstellung des Vereins Chaostreff Osnanrueck e.V.
+
+3. Folie - Referenten
+Vorstellung der Referenten
+
+4. Folie - "Kostenfreie" Dienste (1)
+Logos von Google, Web.de, Twitter, Facebook, WhatsApp, Telegram...
+Frage nach Kosten für diese Dienste, mögliche grobe
+Kostenabschätzung, Weckung eines Kostenbewusstseins, Bezahlung mit
+persönlichen Daten, Wert einer Online-Präsenz
+
+5. Folie - "Kostenfreie Dienste" (2)
+Fazit: "Kostenfreie" Dienste und Accounts im Allgemeinen,
+Datensparsamkeit, bewusste Entscheidung, wer welche Daten preisgeben
+möchte
+
+6. Folie - Konten und Passwörter (1)
+Logos von typischen alltäglichen Onlinediensten wie Ebay, Amazon,
+Netflix, Web.de, GMX, PayPal, Sparkasse Osnabrück, DHL...
+
+7. Folie - Konten und Passwörter (2)
+Liste mit "sicheren" Passwörtern wie "123456", "test"...
+
+8. Folie - Konten und Passwörter (3)
+Fazit: Unterschiedliche Passwörter pro Dienst, sichere Passwörter,
+Nutzung von Passwortmanagern, zwei-Faktor-Authentifizierung, Vorsicht
+bei Passwort-Prüfseiten, anonyme Identität (Fake-Identität) z.B. mit
+https://www.fakenamegenerator.com/, Meidung "halbseidener" Seiten...
+
+9. Folie - Gerätepflege (1)
+Große Hardcopy von der Meldung eines typischen Schadprogramms wie z.B.
+Wannacry
+
+10. Folie - Gerätepflege (2)
+Fazit: Regelmäßige Updates von Betriebssystem, Browser,
+Virenscanner/-signaturen, Verwendung eines Virenscanners,
+Experiment: Jens R. "verliert" USB-Sticks im Gebäude und fragt, ob
+jemand einen eingesteckt hat und ihn auslesen will.
+
+11. Folie - Vielen Dank
+Vielen Dank für eure Aufmerksamkeit!
+
+
+Zeiteinteilung und Zuordnungen
+------------------------------
+
+Jochen:
+Teil 1 (Einführung), ca. 5 min
+Folien 1-2
+
+Jens R.:
+Teil 2 ("Kostenfreie" Dienste), ca. 10 min
+Folien 4-5
+
+Peter:
+Teil 3 (Konten und Passwörter), ca. 10 min
+Folien 6-8
+
+Jens K.:
+Teil 4 (Gerätepflege), ca. 10 min
+Folien 9-11
+
